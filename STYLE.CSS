@@ -1,0 +1,24 @@
+body{background-color: #fff7ed;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;}
+
+.contenedor{margin-top: 80px;
+}
+
+h2{font-size:50px ;
+color: #ea580c;}
+
+button{padding: 12px 20px;
+margin: 5px;
+border-radius: 5px;
+cursor: pointer;
+border: none;
+}
+
+#sumar{background-color: green;
+color: white;
+}
+
+
+#reiniciar{background-color: #dc2626;
+color: white;}
